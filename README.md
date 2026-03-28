@@ -1,0 +1,56 @@
+# Jason Ross和Dia Frampton – Someone That I Needed
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.92] No one here to talk me off the edge
+[00:28.69] Cavin' in, I just hold my breath
+[00:33.56] Maybe I can make the dark a friend
+[00:38.22] Walk beside me but not get ahead
+[00:54.22] 
+[00:41.63] 'Cause my heart beat bleeds into all the wasted time
+[00:46.45] And every time I sleep I'm afraid of what I'll find
+[00:51.10] I'm so hard on myself
+[00:52.81] Lookin' for answers from everyone else
+[00:55.94] But If I dig real deep, maybe I could change my mind
+[01:21.94] 
+[00:59.10] In the darkness
+[01:01.14] Close my eyes and breath in
+[01:03.52] Focus on the feeling
+[01:05.97] Floating through the ceiling
+[01:09.01] Is the secret
+[01:10.74] Hiding underneath this
+[01:13.12] Mess of broken pieces
+[01:15.43] I'm someone I believe in
+[01:17.91] Someone that I needed
+[01:28.41] 
+[01:27.44] Someone that I needed, needed, needed, needed
+[01:35.98] Someone that I needed
+[01:55.60] Someone that I needed
+[02:06.10] 
+[02:17.69] 'Cause my heart beat bleeds into all the wasted time
+[02:22.38] And every time I sleep I'm afraid of what I'll find
+[02:26.05] I'm so hard on myself
+[02:28.84] Lookin' for answers from everyone else
+[02:32.00] But If I dig real deep, maybe I could change my mind
+[02:58.00] 
+[02:35.14] In the darkness
+[02:37.11] Close my eyes and breath in
+[02:39.59] Focus on the feeling
+[02:41.95] Floating through the ceiling
+[02:45.02] Is the secret
+[02:46.72] Hiding underneath this
+[02:49.14] Mess of broken pieces
+[02:51.38] I'm someone I believe in
+[02:53.84] Someone that I needed
+[03:04.34] 
+[03:03.58] Someone that I needed, needed, needed, needed
+[03:11.94] Someone that I needed
+[03:31.24] Someone that I needed
+[03:41.74] 
+[03:54.19] 'Cause my heart beat bleeds into all the wasted time
+[03:58.39] And every time I sleep I'm afraid of what I'll find
+[04:03.15] I'm so hard on myself
+[04:04.84] Lookin' for answers from everyone else
+[04:07.91] But If I dig real deep, maybe I could change my mind
+```
