@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Someone That I Needed",
+  "base_artist": "Jason Ross和Dia Frampton",
+  "createdAt": "2026-03-28T13:17:18.274336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Someone That I Needed",
+      "artist": "Jason Ross",
+      "has_synced": true,
+      "path": "select/01_Someone_That_I_Needed_Jason_Ross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Someone That I Needed",
+      "artist": "Jason Ross & Dia Frampton",
+      "has_synced": true,
+      "path": "select/02_Someone_That_I_Needed_Jason_Ross_&_Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Someone That I Needed (with Dia Frampton)",
+      "artist": "Jason Ross",
+      "has_synced": true,
+      "path": "select/03_Someone_That_I_Needed_(with_Dia_Frampton)_Jason_Ross.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Someone That I Needed",
+      "artist": "Jason Ross with Dia Frampton",
+      "has_synced": true,
+      "path": "select/04_Someone_That_I_Needed_Jason_Ross_with_Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Someone That I Needed (with Dia Frampton)",
+      "artist": "Dia Frampton",
+      "has_synced": true,
+      "path": "select/05_Someone_That_I_Needed_(with_Dia_Frampton)_Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Someone That I Needed (with Dia Frampton)",
+      "artist": "Jason Ross & Dia Frampton",
+      "has_synced": true,
+      "path": "select/06_Someone_That_I_Needed_(with_Dia_Frampton)_Jason_Ross_&_Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Someone That I Needed (with Dia Frampton)",
+      "artist": "Jason Ross feat. Dia Frampton",
+      "has_synced": true,
+      "path": "select/07_Someone_That_I_Needed_(with_Dia_Frampton)_Jason_Ross_feat._Dia_Frampton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Someone That I Needed (with Dia Frampton) (feat. Dia Frampton)",
+      "artist": "Jason Ross",
+      "has_synced": true,
+      "path": "select/08_Someone_That_I_Needed_(with_Dia_Frampton)_(feat._Dia_Frampton)_Jason_Ross.lrc"
+    }
+  ]
+}
